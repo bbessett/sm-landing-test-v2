@@ -1,7 +1,7 @@
 ---
-title: test
-date: '2018-06-08T17:18:22-06:00'
-description: asdasdadasdf
+title: Test
+date: '2018-06-08T17:27:06-06:00'
+description: Asdasdasdasd
+image: /img/about-jumbotron.jpg
 ---
-asdasdasd
-sdafasdf
+asdasdsfasdsad
